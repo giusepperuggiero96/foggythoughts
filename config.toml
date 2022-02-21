@@ -1,0 +1,6 @@
+baseURL = 'https://foggythoughts.xyz'
+languageCode = 'en-us'
+title = 'Foggy Thoughts'
+theme = 'beautifulhugo'
+relativeURLs = true
+uglyURLs = true
