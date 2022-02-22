@@ -4,3 +4,28 @@ title = 'Foggy Thoughts'
 theme = 'beautifulhugo'
 relativeURLs = true
 uglyURLs = true
+delayDisquis = true
+summaryLength = 30
+#googleAnalytics = "XXX"
+
+[Params]
+	hometitle = "Foggy Thoughts"
+	subtitle = "A blog about nothing."
+	mainSections = ["posts","post"]
+	logo = "img/logo.jpg"
+	favicon = "img/logo.jpg"
+	dateFormat = "January 2, 2020"
+	comments = true
+	wordCount = true
+	socialShare = true
+	hideAuthor = true
+
+[Author]
+	name = "Giuseppe Ruggiero"
+	email = "ruggierogiuseppe96@gmail.com"
+	github = "https://github.com/giusepperuggiero96"
+
+[[menu.main]]
+	name = "Blog"
+	url = ""
+	weight = 1
