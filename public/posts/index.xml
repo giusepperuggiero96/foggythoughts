@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Foggy Thoughts</title>
+    <link>https://foggythoughts.xyz/posts.html</link>
+    <description>Recent content in Posts on Foggy Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Feb 2022 19:00:26 +0100</lastBuildDate><atom:link href="https://foggythoughts.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is foggy thoughts?</title>
+      <link>https://foggythoughts.xyz/posts/foggythoughts.html</link>
+      <pubDate>Mon, 21 Feb 2022 19:00:26 +0100</pubDate>
+      
+      <guid>https://foggythoughts.xyz/posts/foggythoughts.html</guid>
+      <description>Foggy Thoughts What is Foggy Thoughts? Well, I don&amp;rsquo;t know just yet! For the moment I will try to post articles about what interests in the moment.</description>
+    </item>
+    
+  </channel>
+</rss>
