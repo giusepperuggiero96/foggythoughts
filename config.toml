@@ -1,5 +1,5 @@
 baseURL = 'https://foggythoughts.xyz'
-languageCode = 'en-us'
+languageCode = 'en'
 title = 'Foggy Thoughts'
 theme = 'beautifulhugo'
 relativeURLs = true
@@ -14,7 +14,7 @@ summaryLength = 30
 	mainSections = ["posts","post"]
 	logo = "img/logo.jpg"
 	favicon = "img/logo.jpg"
-	dateFormat = "January 2, 2020"
+	dateFormat = "January 2, 2006"
 	comments = true
 	wordCount = true
 	socialShare = true
